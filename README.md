@@ -12,6 +12,6 @@ The project contains:
 - Call to action section 
 - Footer 
 
-## [live demo](https://fekry-ahmed.github.io/omnifood/)
+## [live demo](https://fekry-ahmed.github.io/Omnifood/)
 
 ![screen shot](Omnifood.png)
